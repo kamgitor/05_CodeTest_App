@@ -1,0 +1,8 @@
+e:\Robocze\!Visual C#\05 CodeTest App\CodeTest App\bin\Debug\CodeTest App.exe
+e:\Robocze\!Visual C#\05 CodeTest App\CodeTest App\bin\Debug\CodeTest App.pdb
+e:\Robocze\!Visual C#\05 CodeTest App\CodeTest App\obj\Debug\ResolveAssemblyReference.cache
+e:\Robocze\!Visual C#\05 CodeTest App\CodeTest App\obj\Debug\CodeTest_App.Form1.resources
+e:\Robocze\!Visual C#\05 CodeTest App\CodeTest App\obj\Debug\CodeTest_App.Properties.Resources.resources
+e:\Robocze\!Visual C#\05 CodeTest App\CodeTest App\obj\Debug\CodeTest App.csproj.GenerateResource.Cache
+e:\Robocze\!Visual C#\05 CodeTest App\CodeTest App\obj\Debug\CodeTest App.exe
+e:\Robocze\!Visual C#\05 CodeTest App\CodeTest App\obj\Debug\CodeTest App.pdb
