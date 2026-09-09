@@ -26,3 +26,7 @@ project.assets.json
 /.vs
 /CodeTestApp/.vs
 
+/CodeTest App/.vs/*.json
+/CodeTest App/obj/Debug/*.cache
+/CodeTest App/obj/Release/*.cache
+/CodeTest App/bin/Debug
