@@ -20,19 +20,8 @@
 project.lock.json
 project.assets.json
 
-
-/CodeTestApp/obj
-/CodeTestApp/bin
 /.vs
-/CodeTestApp/.vs
+/CodeTest App/.vs/
+/CodeTest App/obj/
+/CodeTest App/bin/
 
-/CodeTest App/.vs/*.json
-/CodeTest App/obj/Debug/*.cache
-/CodeTest App/obj/Release/*.cache
-/CodeTest App/bin/Debug
-/CodeTest App/bin/Debug/*.exe
-/CodeTest App/bin/Debug/*.manifest
-/CodeTest App/obj/Debug/*.Cache
-/CodeTest App/obj/Debug/*.resources
-/CodeTest App/obj/Release/*.Cache
-/CodeTest App/obj/Release/*.resources

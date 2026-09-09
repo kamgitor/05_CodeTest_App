@@ -13,17 +13,19 @@ namespace CodeTest_App
 
 		// Works
 		private const string TXT_CONFIG_LINK = "https://docs.google.com/document/d/1pKape7NE8fiBqN7zHZh0XGvvl9wKtGE1yKmYWTIGrfM/export?format=txt";
+		private const string CONFIG_FILENAME = "web_config.txt";
 
 
 
 		// Orig excel link
 		// https://docs.google.com/spreadsheets/d/1Sq0ZJ646K1qciihv-FtXssX6T3kd5MExSDCe5W9I5eU/edit?usp=drive_link
 		private const string XLS_CONFIG_LINK = "https://docs.google.com/spreadsheets/d/1Sq0ZJ646K1qciihv-FtXssX6T3kd5MExSDCe5W9I5eU/export?format=xlsx";
-		private const string CONFIG_FILENAME = "web_config.txt";
+		private const string CONFIG_XLS_FILENAME = "ducats.xlsx";
 
 		public static void DownloadWebConfig()
 		{
-			DownloadFileToPrivateAppFolder(TXT_CONFIG_LINK, CONFIG_FILENAME);
+			// DownloadFileToPrivateAppFolder(TXT_CONFIG_LINK, CONFIG_FILENAME);		// TXT
+			DownloadFileToPrivateAppFolder(XLS_CONFIG_LINK, CONFIG_XLS_FILENAME);       // XLS
 		}
 
 		/*
