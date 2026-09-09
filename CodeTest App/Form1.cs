@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
+using static CodeTest_App.Downloader;
+
 namespace CodeTest_App
 {
     public partial class Form1 : Form
@@ -95,8 +97,9 @@ namespace CodeTest_App
         // Akcja 4
         private void button4_Click(object sender, EventArgs e)
         {
+            DownloadWebConfig();
 
-        }
+		}
 
 
 

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Windows.Forms;
 
 namespace CodeTest_App
@@ -13,7 +14,9 @@ namespace CodeTest_App
         [STAThread]
         static void Main()
         {
-            Application.EnableVisualStyles();
+			ServicePointManager.SecurityProtocol = (SecurityProtocolType)3072; // TLS 1.2
+
+			Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
